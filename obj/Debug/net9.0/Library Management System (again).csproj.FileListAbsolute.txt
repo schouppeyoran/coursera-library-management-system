@@ -12,3 +12,4 @@ C:\Users\schou\Desktop\Web Development Projects\Library Management System (again
 C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\obj\Debug\net9.0\Library Management System (again).pdb
 C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\obj\Debug\net9.0\Library Management System (again).genruntimeconfig.cache
 C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\obj\Debug\net9.0\ref\Library Management System (again).dll
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\obj\Debug\net9.0\Library Management System (again).sourcelink.json
