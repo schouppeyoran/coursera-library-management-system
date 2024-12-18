@@ -1,0 +1,14 @@
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\bin\Debug\net9.0\Library Management System (again).exe
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\bin\Debug\net9.0\Library Management System (again).deps.json
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\bin\Debug\net9.0\Library Management System (again).runtimeconfig.json
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\bin\Debug\net9.0\Library Management System (again).dll
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\bin\Debug\net9.0\Library Management System (again).pdb
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\obj\Debug\net9.0\Library Management System (again).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\obj\Debug\net9.0\Library Management System (again).AssemblyInfoInputs.cache
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\obj\Debug\net9.0\Library Management System (again).AssemblyInfo.cs
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\obj\Debug\net9.0\Library Management System (again).csproj.CoreCompileInputs.cache
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\obj\Debug\net9.0\Library Management System (again).dll
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\obj\Debug\net9.0\refint\Library Management System (again).dll
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\obj\Debug\net9.0\Library Management System (again).pdb
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\obj\Debug\net9.0\Library Management System (again).genruntimeconfig.cache
+C:\Users\schou\Desktop\Web Development Projects\Library Management System (again)\obj\Debug\net9.0\ref\Library Management System (again).dll
