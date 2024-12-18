@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-class LibraryManager
+﻿class LibraryManager
 {
     static void Main()
     {
@@ -10,7 +7,7 @@ class LibraryManager
 
         while (true)
         {
-            Console.WriteLine("Would you like to add, remove, list, or exit? (add/remove/list/exit)");
+            Console.WriteLine("Would you like to add, remove, list, or exit? (add/remove/list/search/exit)");
             string action = Console.ReadLine().ToLower();
 
             if (action == "add")
@@ -59,6 +56,19 @@ class LibraryManager
                     {
                         Console.WriteLine(book);
                     }
+                }
+            }
+            else if (action == "search")
+            {
+                Console.WriteLine("Enter the title of the book to search:");
+                string searchBook = Console.ReadLine();
+                if (books.Contains(searchBook))
+                {
+                    Console.WriteLine("Book found.");
+                }
+                else
+                {
+                    Console.WriteLine("Book not found.");
                 }
             }
             else if (action == "exit")
