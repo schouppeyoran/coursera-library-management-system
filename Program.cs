@@ -59,6 +59,19 @@
                         Console.WriteLine(book);
                     }
                 }
+
+                if (borrowedBooks.Count == 0)
+                {
+                    Console.WriteLine("No books are currently borrowed.");
+                }
+                else
+                {
+                    Console.WriteLine("Borrowed books:");
+                    foreach (string book in borrowedBooks)
+                    {
+                        Console.WriteLine(book);
+                    }
+                }
             }
             else if (action == "search")
             {
